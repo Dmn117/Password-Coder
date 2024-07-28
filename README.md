@@ -6,7 +6,7 @@ Proyecto para cifrar y descifrar contraseñas
 
 <div align="center">
 
-![image](https://github.com/user-attachments/assets/cd135b7d-2cae-4b88-ac20-646e54768b94)
+![image](https://github.com/user-attachments/assets/102669a6-772c-4373-93ab-0bcd33f43fcc)
 
 ![App version](https://img.shields.io/badge/App-v1.0.0-blue)
 ![Python version](https://img.shields.io/badge/Python-v3.11.2-blue)
@@ -82,7 +82,7 @@ Las opciones actuales son:
 
 **Nota:** Aceptamos sugerencias de funciones a agregar :D
 
-![image](https://github.com/user-attachments/assets/33ad78c2-bef4-430f-8216-613d5ed48621)
+![image](https://github.com/user-attachments/assets/68f7a7ca-87bc-4acc-a094-d812a76e27dc)
 
 
 ### Cifrar Password (Opcion 1)
@@ -94,11 +94,11 @@ Las opciones actuales son:
 **Nota:** Por el momento solo se aceptan letras numeros (del alfabeto Ingles, por ejemplo la ñ por el momento no funciona) y caracteres especiales como: !@#$%^&*()., Todo lo demas sera habilitado en siguientes versiones, incluyendo espacios. Tambien agregaremos soporte para que indique errores del uso de la aplicacion.
 
 #### Cifrado Simple
-![image](https://github.com/user-attachments/assets/2ad8e9a2-842e-404e-a7a6-64c5c3f41cb0)
+![image](https://github.com/user-attachments/assets/8ea07822-8c49-4e09-b506-71ff82488d95)
 
 #### Cifrado del cifrado
 **Precacion:** Toma en cuenta que entre mas cifras mayor sera el tiempo en que la aplicacion se demorara el devolverte el nuevo cifrado y tambien en descifrarlo.
-![image](https://github.com/user-attachments/assets/e91583ec-5485-4ec6-b568-07b5c818e3dd)
+![image](https://github.com/user-attachments/assets/d463d25c-9a4f-46d3-b23b-90478f751365)
 
 
 ### Descifrar Password (Opcion 2)
@@ -109,17 +109,18 @@ Las opciones actuales son:
 **Nota:** Agregaremos soporte y alertas para advertir sobre codigos que ya no se puedan descifrar mas
 
 #### Descifrado Simple
-![image](https://github.com/user-attachments/assets/bffc6f26-8e18-4e40-a5d4-3ff0efcb038d)
+![image](https://github.com/user-attachments/assets/25554068-674f-44e5-a3f1-93219871a58c)
 
 #### Descifrado del cifrado
 **Precacion:** Como indicamos anteriormente, querer descifrar un password que no tiene cifrado emitira un error. Estamos trabajando para resolverlo en la siguiente version :D
-![image](https://github.com/user-attachments/assets/24e48ae2-1bef-4e03-b543-d1afad6c5521)
+![image](https://github.com/user-attachments/assets/1403f25b-134c-49a0-9879-6ccd990c3c76)
 
 
 ### Salir del Programa
 Basta con ingresar la opcion de salida, actualmente es la opcion 3, pero se cambiara para que la opcion sea otra, quizas 0, para dar espacio a otras mas funcionalidades. 
 **Nota:** Despues de eso nuestra mascota te despedira amablamente.
 
-![image](https://github.com/user-attachments/assets/28e6c683-82e3-4361-81f9-518f7c5dee98)
+![image](https://github.com/user-attachments/assets/88d6098d-1fab-4b34-8c12-295d391660cf)
+
 
 
